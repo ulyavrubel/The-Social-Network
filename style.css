@@ -1,0 +1,18 @@
+.user-card {
+  margin: 15px;
+  padding: 10px;
+  width: 200px;
+  display: flex;
+  align-items: center;
+  border: 1px solid grey;
+  border-radius: 2px;
+}
+
+.user-card img {
+  border-radius: 50%;
+}
+
+.user-card div {
+  flex: 1;
+  text-align: center;
+}
